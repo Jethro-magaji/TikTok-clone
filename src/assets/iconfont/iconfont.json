@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "438066",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "4544627",
+      "name": "me",
+      "font_class": "me",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "4933565",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "5633854",
+      "name": "bolt",
+      "font_class": "bolt",
+      "unicode": "ef42",
+      "unicode_decimal": 61250
+    },
+    {
+      "icon_id": "7239497",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "7239818",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "8620044",
+      "name": "music",
+      "font_class": "music",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "9648338",
+      "name": "Home 5",
+      "font_class": "Home",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    }
+  ]
+}
